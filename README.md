@@ -241,9 +241,7 @@ Evaluation
 ```
 DataForgeX/
 │
-├── pyproject.toml
 ├── README.md
-├── LICENSE
 │
 └── src/
     └── dfx/
